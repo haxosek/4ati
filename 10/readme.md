@@ -52,4 +52,5 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to layout][form]
 
-[formularz]: <https://github.com/Michal3456/4ati/blob/main/10/sprites/DiagramLO.png>
+
+ [form]: <https://github.com/Michal3456/4ati/blob/main/4/diagram/tak.drawio.png>
