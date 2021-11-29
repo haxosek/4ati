@@ -54,3 +54,19 @@ Dillinger uses a number of open source projects to work properly:
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
+
+## Layout for form in HTML
+
+[link to layout][form]
+
+## Sketch a database without establishing a relationship
+
+[link to sketch a database][db]
+
+ [erd]:
+ 
+ [osd]:
+ 
+ [form]:  https://drive.google.com/file/d/1km2XHmea9d6bhqmySM2VIQt-L7PjWNJm/view?usp=sharing
+ 
+ [db]:
