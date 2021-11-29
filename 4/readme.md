@@ -54,3 +54,9 @@ Dillinger uses a number of open source projects to work properly:
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
+## Layout for form in HTML
+
+[link to layout][form]
+
+
+ [form]: <https://github.com/Michal3456/4ati/blob/main/4/diagram/tak.drawio.png>
