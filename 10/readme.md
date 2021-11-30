@@ -12,7 +12,7 @@
 
 
 ## Abstract 
-  The project aims to visualize the graph on the basis of the given values.
+  Records the start and end of work.
 
 ## Main functionalities
 
@@ -25,7 +25,7 @@ The above functionalities are tested and work according to their roles.
 > As a contractor on the project, I certify that the above functionality 
 > does not compromise cyberspace or any other space of any state. 
 > The code contained in the project, does not contain malware and is safe to use. 
-> I am personally responsible for its operation: Oskar Lange.
+> I am personally responsible for its operation: Aleksander Wierzchowski.
 
 ## Cpecific functionalities
 
@@ -53,4 +53,4 @@ Dillinger uses a number of open source projects to work properly:
 [link to layout][form]
 
 
- [form]: <https://github.com/Michal3456/4ati/blob/main/10/sprites/DiagramLO.png>
+ [form]: <https://github.com/haxosek/4ati/blob/main/19/Diagram.png>
