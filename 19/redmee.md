@@ -1,12 +1,12 @@
-# Graph visualization project
+# Working time registration system
 
-## _contractor: Oskar Lange_
+## _contractor: Aleksander Wierzchowski_
 ## _principal: Michał Czerwiński_
 
 
 | dossier version | date |
 | ------ | ------ |
-| 1.0 | 17.11.2021 |
+| 1.0 | 30.11.2021 |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -47,7 +47,6 @@ Dillinger uses a number of open source projects to work properly:
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
-
 ## Layout for form in HTML
 
 [link to layout][form]
