@@ -61,3 +61,10 @@ Dillinger uses a number of open source projects to work properly:
 - [Apache]
 
  [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
+ 
+ ## Layout for form in HTML
+
+[link to layout][form]
+
+
+ [form]: <https://github.com/Michal3456/4ati/blob/main/15/Untitled%20Diagram.drawio.png>
